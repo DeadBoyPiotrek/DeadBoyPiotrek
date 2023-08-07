@@ -2,9 +2,9 @@
 
 ### Tech Stack 👷‍♂️
 
-![tech stack](https://skillicons.dev/icons?i=ts,js,git,html,css,tailwindcss,react,nextjs,redux,nodejs,threejs,express,mongodb,jest,supabase&perline=5)
+![tech stack](https://skillicons.dev/icons?i=ts,js,git,html,css,sass,tailwindcss,react,nextjs,redux,nodejs,prisma,threejs,express,mongodb,jest,supabase,nestjs,postman&perline=5)
 
-### Art Tools 🧑‍🎨
+### Art Stack 🧑‍🎨
 
 <!-- <img align="left" alt="afterEffects" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" />
 <img align="left" alt="illustrator" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" />
@@ -19,3 +19,9 @@
 ![My Skills](https://skillicons.dev/icons?i=docker,graphql,rust,arduino,raspberrypi)
 
 
+### Stats 👨‍🚀
+<img  height="150px" src="https://github-readme-stats.vercel.app/api/top-langs?username=deadboypiotrek&show_icons=true&locale=en&layout=compact" alt="languages stats" /> 
+
+<span>
+
+</span>
