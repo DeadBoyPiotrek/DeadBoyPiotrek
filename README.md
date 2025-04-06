@@ -1,4 +1,4 @@
-# Hello, I'm Piotrek
+<!-- # Hello, I'm Piotrek
 
 ### Tech Stack 👷‍♂️
 
@@ -11,7 +11,7 @@
 <img align="left" alt="blender" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" />
 <img align="left" alt="figma" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 <br/><br/> -->
-
+<!--
 ![My Skills](https://skillicons.dev/icons?i=ae,ai,ps,blender,figma)
 
 ### Want To Learn 🧙‍♂️
@@ -25,3 +25,4 @@
 <span>
 
 </span>
+ -->
